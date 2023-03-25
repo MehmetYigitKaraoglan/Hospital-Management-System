@@ -1,0 +1,6 @@
+C:\Users\Yigit\source\repos\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Yigit\source\repos\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Yigit\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Yigit\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Yigit\source\repos\EntityLayer\obj\Debug\EntityLayer.pdb
